@@ -42,7 +42,7 @@ Balanced performance with interpretability and speed
 
 ## 📊 Results
 Model	| Accuracy	| Precision	| Recall	|AUC
-----------------------------------------
+| ---- |------ |-------| ---------|
 Random Forest	| 94%	| 0.95	|0.93	|0.96
 -----------------------------------------
 XGBoost|	92%	|0.92	|0.91	|0.94
