@@ -47,7 +47,7 @@ Balanced performance with interpretability and speed
 - **Public Screening:** Focus on age 40–70 for effective population-level CKD surveillance.
 
 ## 📊 Dashboard Features 
-- [**DASHBOARD**](https://chronic-kidney-disease-dashboard.onrender.com/)
+[**DASHBOARD**](https://chronic-kidney-disease-dashboard.onrender.com/)
 - **🧾 Prediction Tab:** Input patient data and get instant CKD risk prediction
 - **🔍 Data Insights Tab:** Visualize trends, distributions, and bivariate analysis
 - **📈 Model Performance:** ROC curves, feature importance plots, classification metrics
