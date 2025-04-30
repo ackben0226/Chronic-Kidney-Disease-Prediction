@@ -41,11 +41,11 @@ This project was developed in response to the growing burden of Chronic Kidney D
 Balanced performance with interpretability and speed
 
 ## 📊 Results
-Model	| Accuracy	| Precision	| Recall	|AUC
-| ---- |------ |-------| ---------|
-Random Forest	| 94%	| 0.95	|0.93	|0.96
------------------------------------------
-XGBoost|	92%	|0.92	|0.91	|0.94
+
+|Model	| Accuracy	| Precision	| Recall	|AUC|
+| --- |--- |---| ----|
+| Random Forest	| 94%	| 0.95	|0.93	|0.96|
+| XGBoost |	92%	|0.92	|0.91	|0.94 |
 
 ## 🧠 Actionable Insights for Health Services
 - **Early Flagging:** Patients with elevated serum creatinine or low hemoglobin can be prioritized for CKD follow-ups.
