@@ -1,5 +1,5 @@
 # 🧠 Early Detection of Chronic Kidney Disease (CKD)
-## 📍 Project Overview
+## 📍 Project Overview 
 Chronic Kidney Disease (CKD) affects **10% of the global population**, often going undetected until its later stages—where treatment is less effective and more costly. 
 This project provides an end-to-end solution for **early detection and monitoring** of CKD using machine learning and an interactive dashboard, empowering health professionals and planners to **act earlier, 
 allocate smarter, and save lives**.
